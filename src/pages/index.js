@@ -4,6 +4,7 @@ import Hero from "../components/Hero"
 import OurChurch from "../components/OurChurch"
 import ServiceSchedule from "../components/ServiceSchedule"
 import Events from "../components/Events"
+import Support from "../components/Support"
 
 // markup
 const IndexPage = () => {
@@ -13,6 +14,7 @@ const IndexPage = () => {
      <OurChurch />
      <ServiceSchedule />
      <Events />
+     <Support />
     </Layout>
   )
 }
