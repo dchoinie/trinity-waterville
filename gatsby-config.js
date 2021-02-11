@@ -7,7 +7,8 @@ module.exports = {
     city_state: "Waterville, MN",
     zip: "56096",
     phone: "507-362-4454",
-    email: "pastor@trinitywaterville.org"
+    email: "pastor@trinitywaterville.org",
+    siteUrl: "https://www.trinity-waterville.org",
   },
   plugins: [
     {
